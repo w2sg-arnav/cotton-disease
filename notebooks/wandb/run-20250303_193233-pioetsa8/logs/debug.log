@@ -1,0 +1,8 @@
+2025-03-03 19:32:33,106 INFO    MainThread:121257 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/w2sg-arnav/msusir/notebooks/wandb/run-20250303_193233-pioetsa8/logs/debug.log
+2025-03-03 19:32:33,107 INFO    MainThread:121257 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/w2sg-arnav/msusir/notebooks/wandb/run-20250303_193233-pioetsa8/logs/debug-internal.log
+2025-03-03 19:32:33,107 INFO    MainThread:121257 [wandb_init.py:init():761] calling init triggers
+2025-03-03 19:32:33,107 INFO    MainThread:121257 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0001, 'batch_size': 32, 'epochs': 10, 'image_size': (224, 224), 'optimizer': 'AdamW', 'scheduler': 'None', 'dataset': 'Original Dataset', 'augmentation': 'Basic Augmentation', 'preprocessing': 'Segmentation, Noise Reduction, Orientation Normalization', '_wandb': {}}
+2025-03-03 19:32:33,107 INFO    MainThread:121257 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-03 19:32:33,109 INFO    MainThread:121257 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-03 19:32:33,109 INFO    MainThread:121257 [wandb_init.py:_pause_backend():564] pausing backend
