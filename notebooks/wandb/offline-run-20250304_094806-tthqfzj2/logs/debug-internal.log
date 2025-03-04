@@ -1,0 +1,7 @@
+{"time":"2025-03-04T09:48:06.588082216+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/w2sg-arnav/cotton-disease/notebooks/wandb/offline-run-20250304_094806-tthqfzj2/logs/debug-core.log"}
+{"time":"2025-03-04T09:48:06.691729278+05:30","level":"INFO","msg":"created new stream","id":"tthqfzj2"}
+{"time":"2025-03-04T09:48:06.69174913+05:30","level":"INFO","msg":"stream: started","id":"tthqfzj2"}
+{"time":"2025-03-04T09:48:06.691801547+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tthqfzj2"}
+{"time":"2025-03-04T09:48:06.69180669+05:30","level":"INFO","msg":"handler: started","stream_id":"tthqfzj2"}
+{"time":"2025-03-04T09:48:06.691853027+05:30","level":"INFO","msg":"sender: started","stream_id":"tthqfzj2"}
+{"time":"2025-03-04T09:48:06.694141039+05:30","level":"INFO","msg":"Starting system monitor"}

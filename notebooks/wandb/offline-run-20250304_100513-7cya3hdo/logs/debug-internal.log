@@ -1,0 +1,7 @@
+{"time":"2025-03-04T10:05:14.009580701+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/w2sg-arnav/cotton-disease/notebooks/wandb/offline-run-20250304_100513-7cya3hdo/logs/debug-core.log"}
+{"time":"2025-03-04T10:05:14.1134637+05:30","level":"INFO","msg":"created new stream","id":"7cya3hdo"}
+{"time":"2025-03-04T10:05:14.11350242+05:30","level":"INFO","msg":"stream: started","id":"7cya3hdo"}
+{"time":"2025-03-04T10:05:14.113516674+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"7cya3hdo"}
+{"time":"2025-03-04T10:05:14.113600166+05:30","level":"INFO","msg":"sender: started","stream_id":"7cya3hdo"}
+{"time":"2025-03-04T10:05:14.113611152+05:30","level":"INFO","msg":"handler: started","stream_id":"7cya3hdo"}
+{"time":"2025-03-04T10:05:14.116718887+05:30","level":"INFO","msg":"Starting system monitor"}

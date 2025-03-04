@@ -1,0 +1,8 @@
+{"time":"2025-03-04T10:17:17.980492285+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/home/w2sg-arnav/cotton-disease/notebooks/wandb/offline-run-20250304_101717-ypciw38a/logs/debug-core.log"}
+{"time":"2025-03-04T10:17:18.084139549+05:30","level":"INFO","msg":"created new stream","id":"ypciw38a"}
+{"time":"2025-03-04T10:17:18.084193613+05:30","level":"INFO","msg":"stream: started","id":"ypciw38a"}
+{"time":"2025-03-04T10:17:18.084325042+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ypciw38a"}
+{"time":"2025-03-04T10:17:18.084348949+05:30","level":"INFO","msg":"handler: started","stream_id":"ypciw38a"}
+{"time":"2025-03-04T10:17:18.084431876+05:30","level":"INFO","msg":"sender: started","stream_id":"ypciw38a"}
+{"time":"2025-03-04T10:17:18.09269033+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-04T10:17:19.506712135+05:30","level":"INFO","msg":"Pausing system monitor"}
